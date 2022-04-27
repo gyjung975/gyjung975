@@ -6,8 +6,8 @@
 
 
 **Research**
+* 3D Computer Vision
 * Point cloud
-* Graph Neural Network
 
 <!---
 gyjung975/gyjung975 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
